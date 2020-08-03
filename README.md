@@ -1,5 +1,38 @@
 ### Hi there I'm Feli 👋
 
+I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
+
+Current Projects:
+
+I'm compiling and creating learning resources for Bayesian data analysis and science, called the [Bayesian Mixtape](https://github.com/oro13/bayesian-mixtape)
+
+I contribute to numerous opensource projects, including [Holo-REA](https://github.com/holo-rea/holo-rea) for a post-blockchain operations/accounting library.
+
+I've also contributed to a variety of ML prototypes including a language learning app, a soil nutrition predictor, price predictions, fradulent activity detection, user specific content recommenders, NLP analysis, ecommerce, and so on.
+
+Tools:
+
+Python
+
+- sklearn
+- tensorflow
+- tensorflow probability
+- gradient boosting (xgboost, catboost, lightgbm)
+- flask
+
+Javascript
+
+- vue.js
+- typescript
+- tensorflow.js
+
+Rust
+
+Holochain
+
+I also speak SQL (when necessary)
+
+Feel free to reach out here or on [linkedin](https://www.linkedin.com/in/fgentle/)
 
 <!--
 ![contact info](./resumeheader.png)
