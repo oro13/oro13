@@ -2,6 +2,7 @@
 
 I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
 
+Check out my [writings on DS and business](https://oro13.github.io/) (WIP).
 #### Current Projects:
 
 I'm compiling and creating learning resources for Bayesian data analysis and science, called the [Bayesian Mixtape](https://github.com/oro13/bayesian-mixtape)
@@ -20,17 +21,19 @@ Python
 - tensorflow
 - tensorflow probability
 - gradient boosting (xgboost, catboost, lightgbm)
-- flask
 
 Javascript
 
 - vue.js
 - typescript
 - tensorflow.js
+- d3.js
 
 Rust
 
-Holochain
+- Holochain
+- Tensorflow Rust
+- Hugging Face
 
 I also speak SQL (when necessary)
 
