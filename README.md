@@ -2,7 +2,7 @@
 
 I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
 
-Check out my [writings on DS and business](https://oro13.github.io/) (WIP).
+Check out my [blog on DS and Bayesian inference for science and business](https://oro13.github.io/) (WIP).
 #### Current Projects:
 
 I'm compiling and creating learning resources for Bayesian data analysis and science, called the [Bayesian Mixtape](https://github.com/oro13/bayesian-mixtape)
