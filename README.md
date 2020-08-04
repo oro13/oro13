@@ -1,4 +1,4 @@
-### Hi there I'm Feli 👋
+![](/resumeheader.png)
 
 I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
 
