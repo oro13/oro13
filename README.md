@@ -1,4 +1,6 @@
-![](/resumeheader.png)
+![](https://github.com/oro13/oro13/find/master)
+
+---
 
 I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
 
