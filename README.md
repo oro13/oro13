@@ -2,6 +2,8 @@
 
 ---
 
+### Hey there, I'm Feli 😄
+
 I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
 
 Check out my [blog on DS and Bayesian inference for science and business](https://oro13.github.io/) (WIP).
