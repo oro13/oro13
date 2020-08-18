@@ -2,12 +2,14 @@
 
 ---
 
-### Hey there, I'm Feli 😄
+### Hey there, I'm Feli 👋😄 
 
 I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
 
 Check out my [blog on DS and Bayesian inference for science and business](https://oro13.github.io/) (WIP).
 #### Current Projects:
+
+Working on a team for consulting the City of Seattle on road safety. We're using machine learning predictive models and statistical modeling analyze traffic collision data. I'm using Bayesian decision theory to make policy recommendations based on our findings and optimizing for efficient use of city resources. Check it out [here](https://github.com/DataCircles/traffic_collisions_ml_team1)! 
 
 I'm compiling and creating learning resources for Bayesian data analysis and science, called the [Bayesian Mixtape](https://github.com/oro13/bayesian-mixtape)
 
@@ -39,7 +41,7 @@ Rust
 - Tensorflow Rust
 - Hugging Face
 
-I also speak SQL (when necessary)
+I also speak SQL and R (when necessary)
 
 Feel free to reach out here or on [linkedin](https://www.linkedin.com/in/fgentle/)
 
