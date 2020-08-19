@@ -17,7 +17,7 @@ I contribute to numerous opensource projects, including [Holo-REA](https://githu
 
 #### Recent Projects
 
-I've also contributed to a variety of ML prototypes including a [language learning app](https://github.com/oro13/language-app-ml), a [soil nutrition predictor](https://github.com/oro13/soil-health-prediction), [auction price predictions](https://github.com/oro13/a-bulldozer-named-desire/), [fradulent activity detection dashboard](https://github.com/oro13/fraud-detection), user specific content recommenders, NLP analysis, ecommerce, and so on.
+I've also contributed to a variety of ML prototypes including a [language learning app](https://github.com/oro13/language-app-ml), a [soil nutrition predictor](https://github.com/oro13/soil-health-prediction), [auction price predictions](https://github.com/oro13/a-bulldozer-named-desire/), [fraudulent activity detection dashboard](https://github.com/oro13/fraud-detection), user specific content recommenders, NLP analysis, ecommerce, and so on.
 
 #### Tools:
 
