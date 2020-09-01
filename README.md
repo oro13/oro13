@@ -4,7 +4,7 @@
 
 ### Hey there, I'm Feli 👋😄 
 
-I'm a data scientist, machine learning engineer, and evangelist of Bayesian statistics.
+I'm a data scientist, machine learning engineer, and practioner/evangelist of Bayesian statistics.
 
 #### Current Projects:
 
