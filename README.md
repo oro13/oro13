@@ -45,7 +45,7 @@ I also speak SQL and R!
 Feel free to reach out here or on [linkedin](https://www.linkedin.com/in/fgentle/)
 
 
-Also, check out my [blog on DS and Bayesian inference for science and business](https://oro13.github.io/) (WIP).
+Also, check out my [blog on DS and Bayesian inference for science and business](https://fgentle.github.io/blog/blog.html) (WIP), and [project portfolio](https://fgentle.github.io/portfolio/portfolio.html).
 
 <!--
 ![contact info](./resumeheader.png)
