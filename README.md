@@ -15,7 +15,7 @@ Python
 - pymc3
 - gradient boosting (xgboost, catboost, lightgbm)
 - pyspark
--airflow
+- airflow
 
 Javascript
 
