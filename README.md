@@ -43,7 +43,7 @@ Feel free to reach out here or on [linkedin](https://www.linkedin.com/in/fgentle
 
 #### Recent Projects:
 
-Consulting the City of Seattle on road safety. We're using machine learning predictive models and statistical modeling analyze traffic collision data. I'm using Bayesian decision theory to make policy recommendations based on our findings and optimizing for efficient use of city resources. Check it out [here](https://github.com/DataCircles/traffic_collisions_ml_team1)! 
+Consulting the City of Seattle on road safety. We're using machine learning predictive models and statistical modeling to analyze traffic collision data. I'm using Bayesian decision theory to make policy recommendations based on our findings and optimizing for efficient use of city resources. Check it out [here](https://github.com/DataCircles/traffic_collisions_ml_team1)! 
 
 I'm compiling and creating learning resources for Bayesian data analysis and science, called the [Bayesian Mixtape](https://github.com/oro13/bayesian-mixtape)
 
